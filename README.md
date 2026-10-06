@@ -6,4 +6,4 @@ BCA student building backend projects in Java.
 - **Currently building:** ShortLink (URL shortener) and SeatBook (ticket booking backend)
 - **Looking for:** SDE / Backend internships
 
-📫 shivansh08@gmail.com | [LinkedIn](https://www.linkedin.com/in/shivanshu-jaiswal2005)
+📫 jshivansh08@gmail.com | [LinkedIn](https://www.linkedin.com/in/shivanshu-jaiswal2005)
